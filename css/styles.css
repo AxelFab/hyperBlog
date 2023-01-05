@@ -2,4 +2,9 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: deeppink;
+    font-size: 20px;
+}
+
+p {
+    color: limegreen;
 }
