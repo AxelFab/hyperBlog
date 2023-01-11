@@ -5,6 +5,11 @@ body {
     font-size: 20px;
 }
 
+img {
+    width: 100px;
+    height: 100px;
+}
+
 .parrafo-negritas {
     font-weight: bold;
     text-align: center;
